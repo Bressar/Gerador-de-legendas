@@ -1,3 +1,10 @@
+# Gerador de legendas para videos e filmes
+# Arquivo de testes
+# Criado em: 19/06/2025
+# Modificado em: 
+# By: Douglas G. Bressar
+
+
 import customtkinter as ctk
 from tkinter import filedialog
 import threading
