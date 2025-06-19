@@ -1,1 +1,26 @@
+# Ambiente virtual
 .venv/
+venv/
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Arquivos de saída
+*.srt
+*.txt
+*.docx
+Temp/

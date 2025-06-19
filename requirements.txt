@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+pytube==15.0.0
+moviepy==2.2.1
+whisper==20231027
+python-docx==0.8.11
+imageio[ffmpeg]==2.31.1
